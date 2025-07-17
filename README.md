@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/oakenai-mcp-edit-file-lines-badge.png)](https://mseep.ai/app/oakenai-mcp-edit-file-lines)
+
 # Edit File Lines MCP Server
 
 A TypeScript-based MCP server that provides tools for making precise line-based edits to text files within allowed directories.
